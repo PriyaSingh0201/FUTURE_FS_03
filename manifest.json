@@ -1,0 +1,24 @@
+{
+  "name": "Nike Redesigned",
+  "short_name": "Nike",
+  "description": "AI-powered Nike website redesign with modern UI and responsive design",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["sports", "shopping", "lifestyle"],
+  "lang": "en-US"
+}

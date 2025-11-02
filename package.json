@@ -1,1 +1,30 @@
-{"type": "commonjs"}
+{
+  "name": "nike-redesign",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-powered Nike website redesign with modern UI and responsive design",
+  "keywords": ["nike", "ai-design", "nextjs", "tailwindcss", "responsive", "modern-ui"],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "export": "next build && next export"
+  },
+  "dependencies": {
+    "next": "14.2.5",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.19",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.5",
+    "postcss": "8.4.39",
+    "tailwindcss": "3.4.4"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  }
+}
